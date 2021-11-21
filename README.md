@@ -2,8 +2,9 @@
 The purpose of this project is to keep track and maintain the codebase for my semester project for DataMining_MachineLearning.
 
 DMML Self Project Descriptor:
-	So total I need to create 5 Machine Learning models for DMML Project,
-	 1. 4 Supervised Model and 1 Unsupervised learning Model
+	So total I need to create 5 Machine Learning models for DMML Project.
+	 1. 4 Supervised Model and 1 Unsupervised learning Model.
+	 
 		4 Supervised Learning Models which I will Create for this project are below:	
 			a). 2 Regression Model with 1 dataset
 							
