@@ -1,5 +1,5 @@
 # DataMiningMachineLearninProject
-The purpose of this project is to keep track and maintain the codebase for my semester project for DataMining&MachineLearning.
+The purpose of this project is to keep track of and maintain the codebase for my semester project for DataMining&MachineLearning.
 
 DMML Self Project Descriptor:
 	So total I need to create 5 Machine Learning models for DMML Project.
@@ -16,6 +16,7 @@ DMML Self Project Descriptor:
 			  Logistic Regession 
 			  Naive Bayes
 			
+Dataset has been taken from the open-source, and all the dataset credit goes to the original author.
 
 
 Thanks
